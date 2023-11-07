@@ -1,9 +1,10 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  int main()
-{
-    int a,b,sum;
-    printf("enter two numbers a and b :\n");
-    scanf("%d %d",&a,&b);
-    sum=a+b;
-    printf("%d + %d= %d", a,b,sum);
-    return 0;
+#include<stdio.h>
+int main()
+{ 
+    int A, B, sum = 0; 
+    printf("Enter two numbers A and B : \n"); 
+    scanf("%d%d", &A, &B); 
+    sum = A + B;
+    printf("Sum of A and B is: %d", sum); 
+     return 0; 
 }
