@@ -10,3 +10,4 @@ int main()
     printf("value of c:%c",c);
     return 0;
 }
+ 

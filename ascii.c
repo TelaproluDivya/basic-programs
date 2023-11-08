@@ -6,4 +6,4 @@ int main()
     scanf("%c", &ch);
     printf("ASCII value of character %c is: %d", ch, ch);
     return 0;
-} 
+}  
