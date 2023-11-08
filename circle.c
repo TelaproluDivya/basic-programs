@@ -10,3 +10,4 @@ int main() {
    printf("The area of the given circle is %f", area);
    return 0;
 }
+ 

@@ -16,4 +16,4 @@ printf("armstrong  number ");
 else    
 printf("not armstrong number");    
 return 0;  
-}
+} 
